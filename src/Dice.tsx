@@ -1,5 +1,5 @@
 import { useState } from 'react';
-// import './App.css'
+import './App.css'
 
 export const Dice = () => {
   const [dice, rollDice] = useState<number>(1);

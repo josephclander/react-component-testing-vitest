@@ -4,7 +4,6 @@ import '@testing-library/jest-dom';
 import { Dice } from './Dice';
 
 test('Dice value is between 1 and 6 when clicked', () => {
-  //   expect(1).toBe(1);
   render(<Dice />);
   const button = screen.getByRole('button');
   const heading = screen.getByRole('heading');
