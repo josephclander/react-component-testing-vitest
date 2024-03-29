@@ -1,11 +1,15 @@
-# Case Study: React + TypeScript + Vite + Vitest
+# Case Study: Behaviour Driven Development - React, TypeScript & Testing Library
 
 A simple app template for a dice roller with a test on the component.
 The intention is to demonstrate how to use a Testing Library for front-end testing and how Behaviour-Driven Development differs from regular Test-Driven Development.
 
-<img width="874" alt="Screenshot 2023-12-10 at 19 42 28" src="https://github.com/josephclander/react-component-testing-vitest/assets/19231569/fdad4774-dedb-4d0e-b987-2776551b222f">
-<img width="1415" alt="Screenshot 2023-12-10 at 19 42 49" src="https://github.com/josephclander/react-component-testing-vitest/assets/19231569/a21405e1-8ff2-46bd-bb3a-c9732bde2c1c">
-<img width="1415" alt="Screenshot 2023-12-10 at 19 43 00" src="https://github.com/josephclander/react-component-testing-vitest/assets/19231569/d2dbda43-b4d9-4107-b282-eb08ce2e4be6">
+### Link to YouTube video explanation
+[<img width="400" alt="youtube thumbnail" src="https://i3.ytimg.com/vi/P-jFbmFXFeE/maxresdefault.jpg">](https://www.youtube.com/watch?v=P-jFbmFXFeE&list=PLCG3irSwSz6gDZUJ51CJyFt2jjbC5MPDm&index=1)
+
+### Screenshots
+<img width="700" alt="Screenshot app component" src="https://github.com/josephclander/react-component-testing-vitest/assets/19231569/a21405e1-8ff2-46bd-bb3a-c9732bde2c1c">
+<img width="700" alt="Screenshot app component test" src="https://github.com/josephclander/react-component-testing-vitest/assets/19231569/d2dbda43-b4d9-4107-b282-eb08ce2e4be6">
+<img width="300" alt="Screenshot app" src="https://github.com/josephclander/react-component-testing-vitest/assets/19231569/fdad4774-dedb-4d0e-b987-2776551b222f">
 
 ## Testing with Behaviour-Driven Development
 
